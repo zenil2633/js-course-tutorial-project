@@ -26,3 +26,8 @@ console.log(booleanIsLoggedIn);
 // If value is "" => Flase
 // If value is 1 => true
 
+// convert number into string 
+let someNumber = 7 
+let stringNumber = String(someNumber)
+console.log(someNumber);
+console.log(typeof stringNumber);
