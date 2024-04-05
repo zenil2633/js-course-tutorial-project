@@ -12,7 +12,7 @@ console.log(typeof Iq)
 console.log(typeof (Iq));
 
 // convert string into number 
-let valueInNumber = Number(Ability)
+let valueInNumber = Number(Iq)
 console.log(typeof valueInNumber)
 // find current what value is of number 
 console.log(valueInNumber);
