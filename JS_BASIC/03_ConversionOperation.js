@@ -34,13 +34,12 @@ console.log(typeof stringNumber);
 
 
 /* --- --- --- Operations --- --- --- */
-
 let value = 3
 let nagvalue = -value
 console.log(nagvalue);
 
-/* ---   basic operations --- */
 
+/* ---   basic operations --- */
 // console.log(7+7);  
 // console.log(7-2);
 // console.log(7*7);
