@@ -31,3 +31,31 @@ let someNumber = 7
 let stringNumber = String(someNumber)
 console.log(someNumber);
 console.log(typeof stringNumber);
+
+
+/* --- --- --- Operations --- --- --- */
+
+let value = 3
+let nagvalue = -value
+console.log(nagvalue);
+
+/* ---   basic operations --- */
+
+// console.log(7+7);  
+// console.log(7-2);
+// console.log(7*7);
+// console.log(7**4);
+// console.log(7/1);
+// console.log(7%6); 
+
+/* ---  Complex types of Coversion --- */
+
+let str1 = "Zen"
+let str2 = " Dungrani"
+let str3 = str1 + str2 
+console.log(str3);
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + (2 + 2));
+console.log((1 + 2 + 2 ) + "3");
