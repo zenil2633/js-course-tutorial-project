@@ -56,6 +56,22 @@ let str3 = str1 + str2
 console.log(str3);
 
 console.log("1" + 2);
-console.log(1 + "2");
-console.log("1" + (2 + 2));
-console.log((1 + 2 + 2 ) + "3");
+console.log(1 / "2");
+console.log("1" + (2 - 2));
+console.log((1 + 2 + 2 ) % "3");
+
+ // --- Tricky Conversion --- 
+ let iq10, iq20, iq30 
+ iq10 = iq20 = iq30 = (2-2)  // Make sure proper  code arrengement and readability 
+
+ console.log(+true);
+ console.log(-false);
+
+let Scorebroad = 700
+++Scorebroad 
+console.log(Scorebroad);
+
+// -- Link To Study Different Conversion --- 
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+
+
