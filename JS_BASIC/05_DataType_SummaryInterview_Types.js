@@ -77,7 +77,9 @@ let myIELTSCORE = {
     WritingBand: 6.5,
 }
 let myIELTSCOREAll = myIELTSCORE
-// (. = dot is used to change the value and access )
-myIELTSCOREAll.ReadingBand = 7.5     
+
+// (  [.] = dot is used to change the value and access )
+myIELTSCOREAll.ReadingBand = 7.5 
+    
 console.log(myIELTSCORE);
 console.log(myIELTSCOREAll);
