@@ -32,4 +32,22 @@ console.log(myBorndate.getTime());
 console.log(Math.floor(Date.now()/1000));
 
 
+// Get functions
+
+console.log("Get Functions");
+
+let Mydate = new Date()
+ console.log(Mydate.getDate());
+ console.log(Mydate.getMonth() + 1);
+ console.log(Mydate.getTime() + 24);
+ console.log(Mydate.getMinutes());
+ console.log(Mydate.getDay());
+
+//  `${Mydate.getDay()} and time is ${Mydate.getDay()}` =  string  interpolation
+
+Mydate.toLocaleString('default', {
+    weekday: "long"
+})
+
+
 
