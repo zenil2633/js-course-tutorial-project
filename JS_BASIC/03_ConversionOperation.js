@@ -61,7 +61,7 @@ console.log((1 + 2 + 2 ) % "3");
 
  // --- Tricky Conversion --- 
  let iq10, iq20, iq30 
- iq10 = iq20 = iq30 = (2-2)  // Make sure proper  code arrengement and readability 
+ iq10 = iq20 = iq30 = (2-2)  // Make sure proper  code arrangement and readability 
 
  console.log(+true);
  console.log(-false);
