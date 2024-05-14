@@ -8,7 +8,7 @@ let name = "ZenTech"
 let age = 22
 let isLogggedIn = true
 
-// Here. Some DataTypes it is use in js 
+// Here. Some DataTypes and it's utilize in js 
 
 // String 
 // Number => 2 to power 54
