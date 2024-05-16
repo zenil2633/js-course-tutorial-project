@@ -26,7 +26,7 @@ const Combine_Array = Single_Array.flat(Infinity)
 console.log(Combine_Array);
 
 
-// Interesting Array Convert
+// Interesting Array Converter
 console.log(Array.isArray("Zen"));
 console.log(Array.from("Zenil"));
 console.log(Array.from({age: 22})); 
