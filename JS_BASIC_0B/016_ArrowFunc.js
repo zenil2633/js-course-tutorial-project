@@ -21,7 +21,6 @@ user.WelcomeCandidate()
 console.log(this);
 
 // function cannot refers "this"
-
 // function skill() {
 //     let name = "priblem solving"
 //     console.log(this.name);
@@ -49,7 +48,7 @@ console.log(dividation(7, 9));
 //  Return Object value in arrow func
 
 const AbstractionObject = (num3, num4) => ({username: "Zenildungrani"})
-console.log(Abstraction(7, 9))
+console.log(AbstractionObject(7, 9))
 
 
 
